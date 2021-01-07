@@ -1,0 +1,2 @@
+1 Zone-D humidite lghg oui 1 11 2020
+2 Zone-E temperature samsung oui 1 1 2020
